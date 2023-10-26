@@ -14,5 +14,5 @@ jupyterlab-drawio==0.9.0
 
 # Custom tools for this project
 gpxpy==1.6.0
-boto3==1.28.70
+bucketstore==0.2.2
 geopy==2.4.0
